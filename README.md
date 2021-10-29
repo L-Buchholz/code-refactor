@@ -20,4 +20,4 @@ The following is an image of the webpage, highlighting its appearance and functi
 
 ## Link to deployed application
 
-The final version of Horiseon's updated webpage can be found here:
+The final version of Horiseon's updated webpage can be found here: https://l-buchholz.github.io/code-refactor/
