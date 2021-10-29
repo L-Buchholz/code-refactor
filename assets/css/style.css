@@ -72,15 +72,12 @@ p {
   font-size: 16px;
 }
 
-/* Main (background) image -- NOT alt compatible */
+/* Changed "hero" image from background to image file (original rendering 
+not alt compatible) */
 
 .hero {
-  height: 800px;
+  max-height: 800px;
   width: 100%;
-  margin-bottom: 25px;
-  background-image: url("../images/digital-marketing-meeting.jpg");
-  background-size: cover;
-  background-position: center;
 }
 
 /* Applies to "main" sections of content */
@@ -95,6 +92,7 @@ p {
 consolidated all classes into "services" */
 
 .services {
+  margin-top: 25px;
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -128,6 +126,7 @@ added in HTML) */
 /* Applies to "sidebar" content (alt tags added in HTML) */
 
 .benefits {
+  margin-top: 25px;
   margin-right: 20px;
   padding: 20px;
   clear: both;
