@@ -1,7 +1,5 @@
 # Code Refactor
 
-## Bootcamp homework #1
-
 A digital marketing agency ("Horiseon") needed an accessibility update to the code for its webpage. The following objectives ("Acceptance criteria") were requested and have now been implemented:
 
 - Source code features semantic HTML elements
